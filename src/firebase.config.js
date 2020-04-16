@@ -1,10 +1,10 @@
 export default {
-    apiKey: "AIzaSyCMPt6tNPhia74s3I1tpHrikWVPTW-ljO4",
-    authDomain: "nurcahya-reactjs.firebaseapp.com",
-    databaseURL: "https://nurcahya-reactjs.firebaseio.com",
-    projectId: "nurcahya-reactjs",
-    storageBucket: "nurcahya-reactjs.appspot.com",
-    messagingSenderId: "261562313524",
-    appId: "1:261562313524:web:2a2dcd8f86a2778c62d361",
-    measurementId: "G-VLVSE7R33S"
-  };
+    apiKey: "AIzaSyAmo8hfv8DCpx6DBsb82ouNV5ZOsHrehas",
+    authDomain: "reactjs-db713.firebaseapp.com",
+    databaseURL: "https://reactjs-db713.firebaseio.com",
+    projectId: "reactjs-db713",
+    storageBucket: "reactjs-db713.appspot.com",
+    messagingSenderId: "852413332907",
+    appId: "1:852413332907:web:065e96eadbfc10c34166ee",
+    measurementId: "G-D3WXB77TST"
+};
